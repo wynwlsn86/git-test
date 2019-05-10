@@ -1,3 +1,3 @@
 const charlesSkills = false;
 
-charlesKills ? return 'git practice' : return 'git some more';
+charleSkills ? 'git practice' :  'git some more';
